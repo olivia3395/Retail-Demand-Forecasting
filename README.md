@@ -288,33 +288,6 @@ Metrics include:
 
 
 
-##  Outputs
-
-Artifacts are saved under:
-
-```text
-artifacts/
-├── data/
-│   ├── processed_m5.csv
-│   └── featured_m5.csv
-├── metrics/
-│   ├── metrics_naive.json
-│   ├── metrics_lightgbm.json
-│   └── metrics_tft.json
-├── predictions/
-│   ├── naive_validation_predictions.csv
-│   ├── lightgbm_validation_predictions.csv
-│   └── tft_validation_predictions.csv
-└── models/
-    ├── lightgbm.pkl
-    └── tft.ckpt
-```
-
-
-
-
-
-
 
 
 <div align="center">
